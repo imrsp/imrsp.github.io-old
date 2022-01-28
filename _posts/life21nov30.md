@@ -6,3 +6,5 @@ author: Simon
 cover: 'http://cdn.rspstudio.cn/img/blog/20211130.jpg'
 tags: life
 ---
+
+Yesterday once more again..
