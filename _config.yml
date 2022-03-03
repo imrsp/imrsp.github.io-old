@@ -11,6 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  cprc: '/1970/01/01/copyright.html'
 
 # Footer
 footer:
@@ -19,7 +20,7 @@ footer:
 # Author 配置博主信息
 author: 'Simon.J.R'
 nickname: 'Simon'
-bio: 'thanks to the light you shower around me.'
+bio: 'Thanks to the light you shower around me.'
 avatar: '/assets/img/profile.jpg'
 
 # Search
