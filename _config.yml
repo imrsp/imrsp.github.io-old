@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'Samaritan Manasseh - Simon Blog'
-description: 'thanks to the light you shower around me.'
+description: 'Thanks to the light you shower around me.'
 keyword: 'Simon,Philosophy,Books,Read,Develop,Music,Photography,Design'
 url: 'https://rsp.ink' # your host
 
@@ -11,6 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  rss: '/rss'
   cprc: '/1970/01/01/copyright.html'
 
 # Footer
